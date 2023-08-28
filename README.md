@@ -1,5 +1,5 @@
 # BO1-Full-Solo-Mods
-One stop shop for BO1 solo mods. Place the 'Solo Eggs Mod' folder in the 'C:\Users\User\AppData\Local\Plutonium\storage\t5\mods' folder. (Click on "Code" --> "Download ZIP" to download). 
+One stop shop for BO1 solo mods. Place the 'Solo Eggs Mod' folder in the 'C:\Users\User\AppData\Local\Plutonium\storage\t5\mods' folder and the 'zombie_moon_patch.ff' file in the '.\pluto_t5_full_game\zone\Common' folder (Click on "Code" --> "Download ZIP" to download). When loaded into the main menu of BO1 click mods -> Solo Eggs Mod to load the mod file. 
 
 Steps modified for solo play:
 - Ascension
@@ -15,4 +15,4 @@ Steps modified for solo play:
 - Moon
   * IMPORTANT: Restart the game until you spawn as Richtofen. He will have the golden rod show up on screen in the bottom right-hand corner
   * The rest of the egg is the same as co-op once you are playing as Richtofen
-  * Note: Playing with a mod that alters the '.\pluto_t5_full_game\zone\Common\zombie_moon_patch.ff' in combination with this mod may cause the player to be unable to collect the P.E.S. on moon
+  * Note: Playing with a mod that alters the '.\pluto_t5_full_game\zone\Common\common_zombie_patch.ff' in combination with this mod may cause the player to be unable to collect the P.E.S. on moon
