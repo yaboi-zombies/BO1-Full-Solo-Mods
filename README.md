@@ -16,3 +16,5 @@ Steps modified for solo play:
   * IMPORTANT: Restart the game until you spawn as Richtofen. He will have the golden rod show up on screen in the bottom right-hand corner
   * The rest of the egg is the same as co-op once you are playing as Richtofen
   * Note: Playing with a mod that alters the '.\pluto_t5_full_game\zone\Common\common_zombie_patch.ff' in combination with this mod may cause the player to be unable to collect the P.E.S. on moon
+
+(I am not the creator of any of these mods. However they are becoming increasingly hard to find for new players, so I am reuploading them here as a resource to others)
