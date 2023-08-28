@@ -3,9 +3,9 @@ One stop shop for BO1 solo mods. Place the 'Solo Eggs Mod' folder in the 'C:\Use
 
 Steps modified for solo play:
 - Ascension
-  * Only one button must be pressed during the monkey round button step
+  * All four buttons monkey round buttons must be pressed within a minute and a half of the first button press
   * LUNA step does not require a player to be on the lander
-  * Final step require a gersch device to be thrown at the light sphere and EITHER a pack a punched thundergun or ray-gun to be shot into it
+  * Final step require a gersch device to be thrown at the light sphere and a pack a punched thundergun to be shot into it
 - Call of the Dead
   * Nothing is changed from the original solo easter egg. Solo egg can be completed as normal with this mod active
 - Shangri-La
