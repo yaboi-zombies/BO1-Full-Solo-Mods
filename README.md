@@ -1,5 +1,5 @@
 # BO1-Full-Solo-Mods
-One stop shop for BO1 solo mods. Place the 'Solo Eggs Mod' folder in the 'C:\Users\User\AppData\Local\Plutonium\storage\t5\mods' folder and the 'zombie_moon_patch.ff' file in the '.\pluto_t5_full_game\zone\Common' folder (Click on "Code" --> "Download ZIP" to download). When loaded into the main menu of BO1 click mods -> Solo Eggs Mod to load the mod file. 
+One stop shop for BO1 solo mods. Place the 'Solo Eggs Mod' folder in the 'C:\Users\User\AppData\Local\Plutonium\storage\t5\mods' folder and the 'zombie_moon_patch.ff' file in the '.\pluto_t5_full_game\zone\Common' folder (Click on "Code" --> "Download ZIP" to download). I'd reccommend renaming the original 'zombie_moon_patch.ff' to  'zombie_moon_patch.ff.bak' instead of replacing the file in case you want to revert to an unmodded state at some point. When loaded into the main menu of BO1 click mods -> Solo Eggs Mod to load the mod file. 
 
 I did not make these mods, but have completed the easter eggs with them multiple times. These are the modified stes as I understand them:
 - Ascension
