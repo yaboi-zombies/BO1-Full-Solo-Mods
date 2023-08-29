@@ -1,11 +1,11 @@
 # BO1-Full-Solo-Mods
 One stop shop for BO1 solo mods. Place the 'Solo Eggs Mod' folder in the 'C:\Users\User\AppData\Local\Plutonium\storage\t5\mods' folder and the 'zombie_moon_patch.ff' file in the '.\pluto_t5_full_game\zone\Common' folder (Click on "Code" --> "Download ZIP" to download). When loaded into the main menu of BO1 click mods -> Solo Eggs Mod to load the mod file. 
 
-Steps modified for solo play:
+I did not make these mods, but have completed the easter eggs with them multiple times. These are the modified stes as I understand them:
 - Ascension
   * All four buttons monkey round buttons must be pressed within a minute and a half of the first button press
-  * LUNA step does not require a player to be on the lander
-  * Final step require a gersch device to be thrown at the light sphere and a pack a punched thundergun to be shot into it
+  * LUNA step auto completes
+  * Final step require a gersch device to be thrown at the light sphere and a pack a punched thundergun to be shot into it (Ray-gun does not work)
 - Call of the Dead
   * Nothing is changed from the original solo easter egg. Solo egg can be completed as normal with this mod active
 - Shangri-La
