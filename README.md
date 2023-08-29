@@ -5,7 +5,7 @@ I did not make these mods, but have completed the easter eggs with them multiple
 - Ascension
   * All four buttons monkey round buttons must be pressed within a minute and a half of the first button press
   * LUNA step auto completes
-  * Final step require a gersch device to be thrown at the light sphere and a pack a punched thundergun to be shot into it (Ray-gun does not work)
+  * Final step require a gersh device to be thrown at the light sphere and a pack a punched thundergun to be shot into it (Ray-gun does not work)
 - Call of the Dead
   * Nothing is changed from the original solo easter egg. Solo egg can be completed as normal with this mod active
 - Shangri-La
