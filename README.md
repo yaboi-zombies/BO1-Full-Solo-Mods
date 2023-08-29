@@ -10,7 +10,7 @@ I did not make these mods, but have completed the easter eggs with them multiple
   * Nothing is changed from the original solo easter egg. Solo egg can be completed as normal with this mod active
 - Shangri-La
   * Activate all four of the stone switches in spawn in quick succession to activate eclipse mode
-  * Stone matching step will auto-complete after a short period of time
+  * Stone matching step will auto-complete a short period of time after interacting with the switch that starts the dialogue with the explorers
   * Waterslide pressure plate step requires only one player to stand on the pressure plate after pulling the switch on the slide
 - Moon
   * IMPORTANT: Restart the game until you spawn as Richtofen. He will have the golden rod show up on screen in the bottom right-hand corner
